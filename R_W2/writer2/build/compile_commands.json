@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wushi/Desktop/OS-workdirectory/Lab2/writer2/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/writer2.dir/src/writer2.c.o -c /home/wushi/Desktop/OS-workdirectory/Lab2/writer2/src/writer2.c",
+  "file": "/home/wushi/Desktop/OS-workdirectory/Lab2/writer2/src/writer2.c",
+  "output": "CMakeFiles/writer2.dir/src/writer2.c.o"
+}
+]

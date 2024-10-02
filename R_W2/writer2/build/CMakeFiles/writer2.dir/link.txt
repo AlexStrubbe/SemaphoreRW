@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/writer2.dir/src/writer2.c.o -o writer2 

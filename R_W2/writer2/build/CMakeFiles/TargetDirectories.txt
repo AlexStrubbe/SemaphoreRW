@@ -1,0 +1,3 @@
+/home/wushi/Desktop/OS-workdirectory/Lab2/writer2/build/CMakeFiles/writer2.dir
+/home/wushi/Desktop/OS-workdirectory/Lab2/writer2/build/CMakeFiles/edit_cache.dir
+/home/wushi/Desktop/OS-workdirectory/Lab2/writer2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/reader2.dir/src/reader2.c.o -o reader2 

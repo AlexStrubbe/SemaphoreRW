@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wushi/Desktop/OS-workdirectory/Lab2/Reader2/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/reader2.dir/src/reader2.c.o -c /home/wushi/Desktop/OS-workdirectory/Lab2/Reader2/src/reader2.c",
+  "file": "/home/wushi/Desktop/OS-workdirectory/Lab2/Reader2/src/reader2.c",
+  "output": "CMakeFiles/reader2.dir/src/reader2.c.o"
+}
+]
